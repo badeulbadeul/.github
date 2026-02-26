@@ -1,12 +1,9 @@
-## Hi there 👋
+# 바들바들
+<img width="1610" height="1002" alt="image" src="https://github.com/user-attachments/assets/7c692b4f-d883-41e4-a069-7c0c0e567444" />
 
-<!--
+---
+팀원: 오상협, 이병찬, 이종은, 이태윤, 정철
 
-**Here are some ideas to get you started:**
+기간:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+상점페이지:
