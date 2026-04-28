@@ -2,20 +2,20 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7326ce02-e9aa-4618-a3f2-0f9ece454061" />
 
 
-## 프로젝트 개요
+## Project Overview
 
-WobbleWobble은 건축물이 무너지지 않도록 균형을 유지하며, 빨간 폭탄 블록만을 조심스럽게 제거하는 물리 기반 퍼즐 게임입니다.
+WobbleWobble is a physics-based puzzle game where players carefully remove red bomb blocks while keeping the structure from collapsing.
 
-플레이어는 블록을 직접 밀고, 당기고, 던지며 구조물의 균형을 조절해야 합니다. 단순히 목표 블록을 제거하는 것이 아니라, 주변 블록과 전체 구조의 무게 중심을 함께 고려해야 합니다.
+Players must push, pull, and throw blocks to control the balance of the structure. Rather than simply removing the target block, they need to consider the surrounding blocks and the overall center of gravity.
 
-아슬아슬하게 흔들리는 구조물 속에서 폭탄 블록을 안전하게 빼내는 과정이 핵심 재미이며, 성공했을 때의 성취감과 구조물이 무너질 때의 시각적 피드백을 함께 경험할 수 있습니다.
+The core fun comes from safely extracting bomb blocks from unstable, wobbling structures. Players can experience both the satisfaction of success and the visual feedback of structures collapsing.
+
+## Development Period
+
+Mar. 2026 ~ Apr. 2026
 
 
-## 기간
-
-2026.03 ~ 2026.04
-
-## Team GoodDuck
+## Team Beab Sae
 
 **Project Manager**
 
