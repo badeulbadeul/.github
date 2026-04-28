@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-WobbleWobble is a physics-based puzzle game where players carefully remove red bomb blocks while keeping the structure from collapsing.
+WobbleWobble is a physics-based simulation game where players carefully remove red bomb blocks while keeping the structure from collapsing.
 
 Players must push, pull, and throw blocks to control the balance of the structure. Rather than simply removing the target block, they need to consider the surrounding blocks and the overall center of gravity.
 
