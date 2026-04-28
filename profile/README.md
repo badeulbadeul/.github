@@ -29,8 +29,6 @@ Mar. 2026 ~ Apr. 2026
 
 [이태윤 Taeyoon Lee](https://github.com/TYParrot)
 
-**Game Designer**
-
 [이종은 Jongeun Lee](https://github.com/ksvx07)
 
 **Art**
