@@ -15,7 +15,7 @@ The core fun comes from safely extracting bomb blocks from unstable, wobbling st
 Mar. 2026 ~ Apr. 2026
 
 
-## Team Beab Sae
+## [Team Beab Sae](https://badeulbadeul.github.io/portfolio/)
 
 **Project Manager**
 
